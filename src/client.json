@@ -1,0 +1,15 @@
+[
+  {
+    "client_name": "Client 1",
+    "client_id": "shanklesh",
+    "client_secret": "shanklesh",
+    "scopes": ["user:read", "user:write"],
+    "grant_types": ["client_credentials"],
+    "redirect_uris": [],
+    "signing_alg": "HS256",
+    "jwks": {
+      "k": "QjJ2djY5QVo4b2R0bzcwTjFxRU40ejRFNkZwYVpBaFU="
+    },
+    "exp": 3600
+  }
+]
